@@ -1,2 +1,2 @@
-mensagem "Estou desligando"
-print (mensagem)
+mensagem = "Estou desligando"
+print(mensagem)
