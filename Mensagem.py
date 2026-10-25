@@ -1,2 +1,2 @@
-mensagem = "Estou desligando"
+mensagem = "Olá VS Code"
 print(mensagem)
